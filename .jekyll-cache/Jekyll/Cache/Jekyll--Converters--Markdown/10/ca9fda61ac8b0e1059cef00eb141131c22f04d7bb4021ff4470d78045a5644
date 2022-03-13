@@ -1,0 +1,105 @@
+I"<h1 id="guy-grossman">Guy <strong>Grossman</strong></h1>
+
+<!--
+include contact information from the front matter
+Supported arguments:
+    - homepage: url, text
+    - phone
+    - email
+-->
+
+<h2 id="education">Education</h2>
+
+<h3 id="columbia-university"><strong>Columbia University</strong></h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>New York City, NY
+</code></pre></div></div>
+
+<ul>
+  <li>Ph.D., Political Science, <code class="language-plaintext highlighter-rouge">2011 (with distinction)</code></li>
+  <li>M.A., Political Science, <code class="language-plaintext highlighter-rouge">2006</code></li>
+</ul>
+
+<h3 id="tel-aviv-university"><strong>Tel Aviv University</strong></h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Tel Aviv, Israel
+</code></pre></div></div>
+
+<ul>
+  <li>M.A., History and Philosophy of Science and Ideas ,<code class="language-plaintext highlighter-rouge">2004 (Summa cum laude)</code></li>
+  <li>L.L.B., Law, <code class="language-plaintext highlighter-rouge">1999 (Magna cum laude)</code></li>
+</ul>
+
+<h2 id="academic-positions">Academic Positions</h2>
+
+<h3 id="university-of-pennsylvania-department-of-political-science">University of Pennsylvania, <a href="http://www.sas.upenn.edu/polisci/">Department of political science</a></h3>
+
+<ul>
+  <li>Professor <code class="language-plaintext highlighter-rouge">2020-</code></li>
+  <li>Associate Professor <code class="language-plaintext highlighter-rouge">2018-2020</code></li>
+  <li>Assistant Professor <code class="language-plaintext highlighter-rouge">2012-2018</code></li>
+</ul>
+
+<h3 id="princeton-university-2015--2016">Princeton University <code class="language-plaintext highlighter-rouge">2015 – 2016</code></h3>
+<p><a href="http://www.princeton.edu/politics/">Department of Politics &amp; Empirical Studies of Conflict</a></p>
+
+<p>Visiting Associate Scholar</p>
+
+<h3 id="princeton-university-2011--2012">Princeton University <code class="language-plaintext highlighter-rouge">2011 – 2012</code></h3>
+<p><a href="http://opr.princeton.edu/">Office of Population Research</a></p>
+
+<p>Postdoctoral Research Associate</p>
+
+<h2 id="fellowships-and-affiliations">Fellowships and Affiliations</h2>
+
+<p>National Academy of the Sciences committee (Advance Reform in the Global
+Security and Justice Sectors)
+<code class="language-plaintext highlighter-rouge">2021 – 2022</code>
+Center for Advanced Study in the Behavioral Sciences, Stanford University
+<code class="language-plaintext highlighter-rouge">2019 – 2020</code>
+Penn Development Research Initiative, UPenn (Founder and co-Director)
+<code class="language-plaintext highlighter-rouge">2020 – now</code>
+The Center for the Study of Ethnicity, Race, and Immigration Study (Affiliate)
+<code class="language-plaintext highlighter-rouge">2020 – now</code>
+Wharton’s Lauder Graduate Group in International Studies (Member)
+<code class="language-plaintext highlighter-rouge">2020 – now</code>
+Empirical Studies of Conflict (Associate)
+<code class="language-plaintext highlighter-rouge">2019 – now</code>
+Immigration Policy Lab, Stanford University (Faculty Affiliate)
+<code class="language-plaintext highlighter-rouge">2019 – now</code>
+The Harry S. Truman Research Institute for the Advancement of Peace
+<code class="language-plaintext highlighter-rouge">2013 – 2014</code></p>
+
+<hr />
+
+<h2 id="honors--awards">Honors &amp; Awards</h2>
+
+<p>CHI’20 Best Paper Honourable Mention Award <code class="language-plaintext highlighter-rouge">CMU, 2020</code> <br />
+Phi Beta Kappa <code class="language-plaintext highlighter-rouge">Dickinson, 2018</code> <br />
+Excellence in Computer Science Award <code class="language-plaintext highlighter-rouge">Columbia, 2018</code> <br />
+Travel Award PL Mentoring Workshop (PLMW) <code class="language-plaintext highlighter-rouge">SPLASH, 2018</code> <br />
+Tau Beta Pi, Engineering Honor Society <code class="language-plaintext highlighter-rouge">Columbia, 2017</code> <br />
+Computer Science Departmental Honors <code class="language-plaintext highlighter-rouge">Dickinson, 2016</code> <br />
+Pi Mu Epsilon, Mathematics Honor Society <code class="language-plaintext highlighter-rouge">Dickinson, 2016</code> <br />
+Upsilon Pi Epsilon, Computer Science Honor Society <code class="language-plaintext highlighter-rouge">Dickinson, 2016</code> <br />
+Alpha Lambda Delta, First year Honor Society <code class="language-plaintext highlighter-rouge">Dickinson, 2013</code><br />
+John Montgomery Scholarship <code class="language-plaintext highlighter-rouge">Dickinson, 2013</code> <br /></p>
+
+<h2 id="teaching">Teaching</h2>
+
+<p>Teaching Assistant, <strong>Crafting Software (17-450/17-950)</strong> <code class="language-plaintext highlighter-rouge">CMU, 2022</code> <br />
+Teaching Assistant, <strong>Programming Languages and Translators (COMS 4115)</strong> <code class="language-plaintext highlighter-rouge">Columbia, 2017 - 2018</code> <br />
+Teaching Assistant, <strong>Introduction to Java II (COMP 132)</strong> <code class="language-plaintext highlighter-rouge">Dickinson, 2016</code> <br />
+Peer Tutor, <strong>Data Structures and Problem Solving (COMP 232)</strong> <code class="language-plaintext highlighter-rouge">Dickinson, 2016</code> <br />
+Computer Lab Consultant <code class="language-plaintext highlighter-rouge">Dickinson, 2014 - 2016</code> <br /></p>
+
+<h2 id="service">Service</h2>
+
+<p>Sub-reviewer <code class="language-plaintext highlighter-rouge">OOPSLA'21, VL/HCC'21</code> <br />
+Reviewer <code class="language-plaintext highlighter-rouge">CHI 2021, CHI 2022</code> <br />
+Research Experiences for Undergraduates in Software Engineering Admission Committee <code class="language-plaintext highlighter-rouge">CMU, 2019 - 2021</code> <br /></p>
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+:ET
